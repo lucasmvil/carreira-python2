@@ -1,0 +1,8 @@
+.gitignore
+.name
+carreira-python2.iml
+misc.xml
+modules.xml
+profiles_settings.xml
+vcs.xml
+__pycache__/
