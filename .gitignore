@@ -6,3 +6,4 @@ modules.xml
 profiles_settings.xml
 vcs.xml
 __pycache__/
+datas.py
